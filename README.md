@@ -81,7 +81,7 @@ Researchers design experiments using the GUI, which are then accessed and perfor
 ### License
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
 
-TouchTact Experiment Generation GUI © 2023 by University of Southern California HaRVI Research Lab is licensed under CC BY 4.0. 
+TouchTact iOS App © 2024 by University of Southern California HaRVI Research Lab is licensed under CC BY 4.0. 
 
 This license requires that reusers give credit to the creator. It allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, even for commercial purposes.
 
