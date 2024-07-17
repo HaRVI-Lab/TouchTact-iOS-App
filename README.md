@@ -13,6 +13,13 @@
 
 ## Description
 The TouchTact iOS app is an integral part of the TouchTact system for conducting touch interaction and haptic feedback experiments. This SwiftUI-based app allows participants to access and perform experiments designed by researchers using the TouchTact Experiment Generation GUI.
+The TouchTact system consists of two main components:
+
+The Experiment Generation GUI for researchers: TouchTact Experiment Generation GUI
+https://github.com/HaRVI-Lab/TouchTact-Experiment-Generation-GUI
+This iOS app for experiment participants (current repository)
+
+Researchers design experiments using the GUI, which are then accessed and performed by participants using this iOS app.
 
 ## Features
 - Seamless experiment access using researcher's GitHub credentials and experiment details
