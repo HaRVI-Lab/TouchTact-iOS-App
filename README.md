@@ -95,7 +95,9 @@ If you use TouchTact in your research or project, please provide attribution by 
 Lee, S. H., Kollannur, & Culbertson H. (2025). 
 TouchTact: A Performance-Centric Audio-Haptic Toolkit for Task-Oriented Mobile Interactions. [Paper DOI URL]
 
-Project URL: [Project's GitHub URL]
+TouchTact Project URL: 
+[Experiment Generation GUI] https://github.com/HaRVI-Lab/TouchTact-Experiment-Generation-GUI
+[TouchTact iOS App] https://github.com/HaRVI-Lab/TouchTact-iOS-App
 ```
 ## Contributors and Contact
 This project was developed by the University of Southern California HaRVI Research Lab.
